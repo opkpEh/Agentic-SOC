@@ -1,0 +1,7 @@
+Investigate this event:
+
+Alert ID: {{$json.AlertID}}
+Date: {{$json.Date}}
+Event: {{$json.Event}}
+User: {{$json.User}}
+Role : {{ $json.Role }}
